@@ -1,4 +1,4 @@
-# Live Demoe(https://dusty-pickle.surge.sh/)
+# Live Demo(https://dusty-pickle.surge.sh/)
 
 
 # Getting Started with Create React App
